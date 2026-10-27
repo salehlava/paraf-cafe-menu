@@ -471,8 +471,8 @@
         {
           "id": "i39",
           "name": {
-            "fa": "قهوه ترک / قهوه سفید",
-            "en": "Turkish / White Coffee"
+            "fa": "قهوه ترک",
+            "en": "Turkish Coffee"
           },
           "price": 140,
           "available": true,
@@ -764,7 +764,7 @@
             "fa": "اسپرسو شیک",
             "en": "Espresso Shake"
           },
-          "price": 320,
+          "price": 350,
           "available": true,
           "addon": false
         },
@@ -784,7 +784,7 @@
             "fa": "توت‌فرنگی",
             "en": "Strawberry"
           },
-          "price": 240,
+          "price": 250,
           "available": true,
           "addon": false
         },
@@ -804,7 +804,7 @@
             "fa": "نوتلا",
             "en": "Nutella"
           },
-          "price": 260,
+          "price": 280,
           "available": true,
           "addon": false
         },
@@ -834,7 +834,7 @@
             "fa": "موز شکلات",
             "en": "Banana Chocolate"
           },
-          "price": 280,
+          "price": 290,
           "available": true,
           "addon": false
         },
