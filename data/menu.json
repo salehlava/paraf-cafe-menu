@@ -29,9 +29,9 @@
             "fa": "چیپس، قارچ و پنیر (کوچک)",
             "en": "Chips, Mushroom & Cheese (Small)"
           },
-          "price": 320,
+          "price": 350,
           "available": true,
-          "addon": false
+          "addon": true
         },
         {
           "id": "i3",
@@ -39,7 +39,7 @@
             "fa": "چیپس، قارچ و پنیر (بزرگ)",
             "en": "Chips, Mushroom & Cheese (Large)"
           },
-          "price": 500,
+          "price": 320,
           "available": true,
           "addon": false
         }
