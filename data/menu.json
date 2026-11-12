@@ -264,7 +264,7 @@
             "fa": "آیس آمریکانو",
             "en": "Iced Americano"
           },
-          "price": 160,
+          "price": 170,
           "available": true,
           "addon": false
         },
@@ -274,7 +274,7 @@
             "fa": "آیس لاته",
             "en": "Iced Latte"
           },
-          "price": 220,
+          "price": 235,
           "available": true,
           "addon": false
         },
@@ -304,7 +304,7 @@
             "fa": "آیس چاکلت",
             "en": "Iced Chocolate"
           },
-          "price": 220,
+          "price": 230,
           "available": true,
           "addon": false
         },
@@ -324,7 +324,7 @@
             "fa": "آیس پینک چاکلت",
             "en": "Iced Pink Chocolate"
           },
-          "price": 220,
+          "price": 230,
           "available": true,
           "addon": false
         },
@@ -344,7 +344,7 @@
             "fa": "اورنج آمریکانو",
             "en": "Orange Americano"
           },
-          "price": 220,
+          "price": 230,
           "available": true,
           "addon": false
         },
@@ -354,7 +354,7 @@
             "fa": "سیروپ (افزودنی)",
             "en": "Syrup (Add-on)"
           },
-          "price": 30,
+          "price": 40,
           "available": true,
           "addon": true
         }
