@@ -379,7 +379,7 @@
             "fa": "هات چاکلت",
             "en": "Hot Chocolate"
           },
-          "price": 220,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -399,7 +399,7 @@
             "fa": "پینک چاکلت",
             "en": "Pink Chocolate"
           },
-          "price": 200,
+          "price": 220,
           "available": true,
           "addon": false
         },
@@ -419,7 +419,7 @@
             "fa": "ماسالا چای",
             "en": "Masala Chai"
           },
-          "price": 200,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -439,7 +439,7 @@
             "fa": "چای کرک",
             "en": "Karak Chai"
           },
-          "price": 190,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -474,7 +474,7 @@
             "fa": "قهوه ترک",
             "en": "Turkish Coffee"
           },
-          "price": 140,
+          "price": 170,
           "available": true,
           "addon": false
         },
@@ -774,7 +774,7 @@
             "fa": "وانیل",
             "en": "Vanilla"
           },
-          "price": 220,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -794,7 +794,7 @@
             "fa": "شکلات",
             "en": "Chocolate"
           },
-          "price": 250,
+          "price": 270,
           "available": true,
           "addon": false
         },
@@ -804,7 +804,7 @@
             "fa": "نوتلا",
             "en": "Nutella"
           },
-          "price": 280,
+          "price": 290,
           "available": true,
           "addon": false
         },
