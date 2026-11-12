@@ -149,7 +149,7 @@
             "fa": "اسپرسو",
             "en": "Espresso"
           },
-          "price": 140,
+          "price": 150,
           "available": true,
           "addon": false
         },
@@ -169,7 +169,7 @@
             "fa": "آمریکانو",
             "en": "Americano"
           },
-          "price": 150,
+          "price": 160,
           "available": true,
           "addon": false
         },
@@ -189,7 +189,7 @@
             "fa": "لاته",
             "en": "Latte"
           },
-          "price": 200,
+          "price": 220,
           "available": true,
           "addon": false
         },
@@ -199,7 +199,7 @@
             "fa": "موکا",
             "en": "Mocha"
           },
-          "price": 220,
+          "price": 230,
           "available": true,
           "addon": false
         },
@@ -209,7 +209,7 @@
             "fa": "کاپوچینو",
             "en": "Cappuccino"
           },
-          "price": 180,
+          "price": 190,
           "available": true,
           "addon": false
         },
@@ -219,7 +219,7 @@
             "fa": "آفوگاتو",
             "en": "Affogato"
           },
-          "price": 220,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -229,7 +229,7 @@
             "fa": "کارامل ماکیاتو",
             "en": "Caramel Macchiato"
           },
-          "price": 230,
+          "price": 240,
           "available": true,
           "addon": false
         },
@@ -239,7 +239,7 @@
             "fa": "سیروپ (افزودنی)",
             "en": "Syrup (Add-on)"
           },
-          "price": 30,
+          "price": 40,
           "available": true,
           "addon": true
         }
